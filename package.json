@@ -1,0 +1,19 @@
+{
+  "name": "telegram-node-bot-plants",
+  "version": "1.0.0",
+  "description": "A plants telegram bot with node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "node"
+  ],
+  "author": "Swathy Rajeev",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0"
+  }
+}
